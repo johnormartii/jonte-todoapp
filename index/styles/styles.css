@@ -2,8 +2,15 @@
    margin: 0;
 }
 header{
-    background-color:#01a2a8 ; 
+    background-color:#a801a0 ; 
+    text-align: center;
+    text-size-adjust: 50;
 }
+body {
+    background: url(me.jpg);
+
+}
+
 
 .nav{
     width: 90%;
@@ -30,7 +37,7 @@ header{
 /************** Hero Section Styles *******************/
 /******************************************************/
 
-/* .main::after {
+ .main::after {
     position: absolute;
     content: "";
     top: 0;
@@ -60,8 +67,8 @@ header{
 }
 
 .hero-section_left > h1 {
-    /* background-color: #01a2a8;
-   */
+     background-color: #01a2a8;
+   
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     font-size: 2rem;
